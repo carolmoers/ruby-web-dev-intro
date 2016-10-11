@@ -1,6 +1,6 @@
 # Introdução ao Desenvolvimento Web com Ruby
 
-Este material, adaptado do material criado para o evento População T na TI, é
+Este material, adaptado do [material criado para o evento População T na TI](https://www.gitbook.com/book/robertosoares/ruby-web-dev-intro/details), é
 detestinado para quem deseja aprender a criar uma aplicação e está iniciando na
 área.
 
