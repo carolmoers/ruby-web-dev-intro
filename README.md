@@ -1,7 +1,8 @@
 # Introdução ao Desenvolvimento Web com Ruby
 
-Este material, criado para o evento População T na TI, é detestinado para quem
-deseja aprender a criar uma aplicação e está iniciando na área.
+Este material, adaptado do material criado para o evento População T na TI, é
+detestinado para quem deseja aprender a criar uma aplicação e está iniciando na
+área.
 
 ## Sobre a estrutura do livro
 
@@ -13,4 +14,5 @@ Nos seguintes capítulos, construiremos uma página estática utilizando
 [HTML](4_html.md) e [CSS](5_css.md).
 
 Depois vamos aprender o básico da linguagem [Ruby](6_ruby.md) para que possamos,
-com o [Sinatra](7_sinatra.md), ter conteúdo dinâmico na nossa aplicação.
+com o Rails, ter conteúdo dinâmico na nossa aplicação, utilizando o guia do
+RailsGirls.

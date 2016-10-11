@@ -10,5 +10,4 @@
   * [4. CSS](5_css.md)
 * Programando
   * [5. Ruby](6_ruby.md)
-  * [6. Sinatra](7_sinatra.md)
 * [Conclusão](conclusao.md)
