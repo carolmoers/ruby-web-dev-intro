@@ -188,3 +188,4 @@ Abaixo, alguns links que podem ajudar a ver mais sobre CSS:
 * [https://www.codecademy.com/pt-BR/learn/web](https://www.codecademy.com/pt-BR/learn/web)
 * [https://developer.mozilla.org/pt-BR/docs/Web/CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [http://www.maujor.com/tutorial/joe/cssjoe1.php](http://www.maujor.com/tutorial/joe/cssjoe1.php)
+* [http://www.w3schools.com/css/default.asp](http://www.w3schools.com/css/default.asp)
